@@ -4,11 +4,21 @@
 
 声明：本项目谥在学习，任何用于违法用途的行为与作者无关。
 
-如果对本项目感兴趣，欢迎加入QQ讨论群：8578575
+如果对本项目感兴趣，欢迎加入 FreeSql QQ讨论群：8578575
 
-[【在线试玩（单机版）】](http://173.82.155.64:18089)
+# 项目演示
 
-[【在线试玩（网络版）】](http://173.82.155.64:18091)
+运行环境：.NET6.0 + redis-server 2.8+
+
+下载 [FreeIM](https://github.com/2881099/FreeIM) 开源代码：
+
+> cd ImServer && dotnet run --urls=http://*:6001
+
+运行网络版：BetGame.DDZ.WebHost2
+
+> cd BetGame.DDZ.WebHost2 && dotnet run
+
+打开多种浏览器(chrome/Edge/chrome 隐身模式)，分别访问 http://127.0.0.1:5000
 
 ![](001.png)
 
